@@ -1,4 +1,7 @@
 # Off-OnAgain
+<p align="center">
+  <img src="Screenshots%20for%20the%20game/Off&OnAgainGameStore.png" width="700" alt="Off & On Again Game Store">
+</p>
 Off & On Again
 Built in 4 weeks. Powered by caffeine, chaos, and IT-Software trauma.
 
