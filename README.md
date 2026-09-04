@@ -3,11 +3,12 @@ Off & On Again
 Built in 4 weeks. Powered by caffeine, chaos, and IT-Software trauma.
 
 Credits
-David Gould
-Garrick Hilton
-Graham Runton
-Calum Jarvis
-Lester Membe
+David Gould:
+Garrick Hilton:
+Graham Runton:
+Calum Jarvis:
+Lester Membe:
+Game Music By Peter Fitton
 
 A loving nod to everyone who’s ever uttered the sacred phrase: "Have you tried turning it off and on again."
 
